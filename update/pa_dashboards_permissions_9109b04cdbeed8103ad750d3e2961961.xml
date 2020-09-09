@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="CMDB Completeness Dashboard">0fd2d590eb102200f6f44d3df106fe1d</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>itil</identity>
+        <read>true</read>
+        <role display_value="itil" name="itil">282bf1fac6112285017366cb5f867469</role>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>marty</sys_created_by>
+        <sys_created_on>2020-08-05 17:55:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9109b04cdbeed8103ad750d3e2961961</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>itil</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_9109b04cdbeed8103ad750d3e2961961</sys_update_name>
+        <sys_updated_by>marty</sys_updated_by>
+        <sys_updated_on>2020-08-05 17:55:42</sys_updated_on>
+        <type>1</type>
+        <user/>
+        <write>false</write>
+    </pa_dashboards_permissions>
+</record_update>
